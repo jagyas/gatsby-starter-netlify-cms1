@@ -2,6 +2,8 @@ backend:
   name: github
   repo: jagyas/gatsby-starter-netlify-cms1
   branch: master
+  base_url: https://g47qtlv86f.execute-api.us-east-1.amazonaws.com
+  auth_endpoint: /prod/auth
 
 media_folder: static/img
 public_folder: /img
